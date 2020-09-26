@@ -1,5 +1,3 @@
-package sample;
-
 public class Road {
     private int x1,x2,y1,y2;
     private double maxSpeed;
